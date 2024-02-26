@@ -1,3 +1,9 @@
+# DISCONTINUATION OF PROJECT #  
+This project will no longer be maintained by Intel.  
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.  
+Intel no longer accepts patches to this project.  
+ If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the open source software community, please create your own fork of this project.  
+  
 # HDFIT.ScriptsHPC
 
 This repository is part of the Hardware Design Fault Injection Toolkit (HDFIT). HDFIT enables end-to-end fault injection experiments and comprises additionally [HDFIT.NetlistFaultInjector](https://github.com/IntelLabs/HDFIT.NetlistFaultInjector) and [HDFIT.SystolicArray](https://github.com/IntelLabs/HDFIT.SystolicArray).
